@@ -26,7 +26,7 @@ public class RestTestController
 	  public HashMap<String, Object> rahasia() {
 		HashMap<String, Object> test = new LinkedHashMap<String, Object>();
 		test.put("status", true);
-		test.put("message", "Ini Rahasia ya");
+		test.put("message", "Tiap tahun bulan menjauh 3.82 cm dari bumi ");
 
 	    return test;
 	  }
